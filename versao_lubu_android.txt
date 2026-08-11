@@ -1,3 +1,3 @@
 versionCode=66
 versionName=1.11.49
-mandatory=true
+mandatory=false
